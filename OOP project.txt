@@ -1,0 +1,5 @@
+Title: Aab-e-Gum, Author: Mushtaq Ahmad Yusufi, Year: 1990, Price: 500
+Title: Ghubar-e-Khatir, Author: Maulana Abul Kalam Azad, Year: 1943, Price: 400
+Title: Raja Gidh, Author: Bano Qudsia, Year: 1981, Price: 450
+Title: Zavia, Author: Ashfaq Ahmed, Year: 1997, Price: 550
+Title: Himaqatain, Author: Pitras Bukhari, Year: 1927, Price: 350
